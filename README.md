@@ -14,4 +14,4 @@ Capture photo and read text.
  <meta-data
             android:name="com.google.android.gms.vision.DEPENDENCIES"
             android:value="ocr" />
-            ```
+      
